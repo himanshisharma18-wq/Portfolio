@@ -195,12 +195,3 @@ Feel free to fork, customize, and use it for learning purposes.
 
 ---
 
-## ⭐ Support
-
-If you found this project inspiring, consider giving it a **⭐ Star** on GitHub.
-
-It motivates me to build more impactful projects and continue contributing to the developer community.
-
-
-
-### "Code. Learn. Build. Repeat. 🚀"
