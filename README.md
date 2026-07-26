@@ -5,7 +5,7 @@
 > A modern, responsive, and performance-focused portfolio showcasing my journey as a Computer Science student, Web Developer, and Data Structures & Algorithms enthusiast.
 
 <a href="https://portfolio-ck6z.onrender.com">
-<img src="https://img.shields.io/badge/🌐_LIVE_PROTOTYPE-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_PROJECT-00C853?style=for-the-badge">
 </a>
 
 
